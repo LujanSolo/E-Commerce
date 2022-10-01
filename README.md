@@ -20,7 +20,7 @@ In order to remain competitive in the e-commerce world, retail companies must be
 
 ## Installation
 
-Download the zip folder or clone the repository for the application, which can be found in the green `CODE` link near the top of this page - and install them to a directory/folder of your choice on your computer. 
+Download the zip folder or clone the repository for the application, which can be found in the green `CODE` link near the top of this page and install them to a directory/folder of your choice on your computer. 
 
 ## Usage
 
