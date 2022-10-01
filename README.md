@@ -14,28 +14,27 @@ In order to remain competitive in the e-commerce world, retail companies must be
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [License](#license)
 - [Questions](#questions)
 
 ## Installation
 
-Download the zip folder or clone the repository for the application, which can be found HERE - and install them to a directory/folder of your choice on your computer. 
+Download the zip folder or clone the repository for the application, which can be found in the green `CODE` link near the top of this page - and install them to a directory/folder of your choice on your computer. 
 
 ## Usage
 
-In your CLI (e.g. Terminal on a Mac, gitBash on Windows), open the directory where you installed the repository's files. Be sure to have Node installed by typing ` npm i ` in your CLI, press ` ENTER `. Use your editor to navigate to the ` /db/schema.sql ` and copy the input there to your MySql Workbench.
+In your CLI (e.g. Terminal on a Mac, gitBash on Windows), open the directory where you installed the repository's files. Be sure to have Node installed by typing ` npm i ` in your CLI, press ` ENTER `. Use your editor to navigate to the ` /db/schema.sql ` and copy the input from there to your MySql Workbench.
 
-Seeds your database: ` "node seeds/index.js" `
+Seed your database: ` "node seeds/index.js" `
 
 Run your local server: ` "node server.js" `
 
 Use your API-testing software to add, delete, update, and read data at the relative routes.
 
-## Screenshots
+## Screenshot
 
 ![Thunder Client screen displaying CRUD routes and retrieved data](/assets/images/e-commerce1.png)
-
 
 
 ## License
