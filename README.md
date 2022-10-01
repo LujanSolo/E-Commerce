@@ -8,32 +8,33 @@
 
 ## Description
   
-In order to allow retail companies to remain competitive in the e-commerce world, this back-end app has been refactored and its starter code modifed in order to fulfill all CREATE, READ, UPDATE, and DELETE requests put to the database.
+In order to remain competitive in the e-commerce world, retail companies must be able to update their inventory quickly and easily. This fully-functional Express.js API uses Sequelize/MySql interface, and will allow the company's software developers to use their API-testing software (e.g. Postman, Thunder Client, Insomnia Core) to apply CRUD processes to the database.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contribute](#contribute)
-- [Tests](#tests)
+- [Screenshots](#screenshots)
 - [License](#license)
 - [Questions](#questions)
 
 ## Installation
 
-Download the zip folder or clone the repository for the application, which can be found HERE - and install them to a directory/folder of your choice on your computer.
+Download the zip folder or clone the repository for the application, which can be found HERE - and install them to a directory/folder of your choice on your computer. 
 
 ## Usage
 
-In your CLI (command line interface, e.g. Terminal on a Mac, gitBash on Windows), open the directory where you installed the repository's files. Be sure to have Node and mySQL installed by typing npm i in your CLI, press ENTER, then type npm i mysql2 and press ENTER.
+In your CLI (e.g. Terminal on a Mac, gitBash on Windows), open the directory where you installed the repository's files. Be sure to have Node installed by typing ` npm i ` in your CLI, press ` ENTER `. Use your editor to navigate to the ` /db/schema.sql ` and copy the input there to your MySql Workbench.
 
-## Contribution
+Seeds your database: ` "node seeds/index.js" `
 
-Run the application by typing npm start in your CLI. Use your arrow keys to cycle through the options that are prese
+Run your local server: ` "node server.js" `
 
-## Tests
+Use your API-testing software to add, delete, update, and read data at the relative routes.
 
-na
+## Screenshots
+
+![Thunder Client screen displaying CRUD routes and retrieved data](/assets/images/e-commerce1.png)
 
 ## License
 
