@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-[Video Walk-thru](https://www.loom.com/share/9e92e102a4cb4b42990d341f405a6002)
+[Video Walk-thru](https://www.loom.com/share/fa035f8c2a0d4c62aae345a497a28cd9)
 
 ## Description
   
