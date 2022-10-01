@@ -4,7 +4,7 @@
 
 ## Quick Links
 
-[Video Walk-thru](http://)
+[Video Walk-thru](https://www.loom.com/share/9e92e102a4cb4b42990d341f405a6002)
 
 ## Description
   
@@ -35,6 +35,8 @@ Use your API-testing software to add, delete, update, and read data at the relat
 ## Screenshots
 
 ![Thunder Client screen displaying CRUD routes and retrieved data](/assets/images/e-commerce1.png)
+
+
 
 ## License
 
